@@ -1,0 +1,39 @@
+{
+  "_from": "react-native-newqiniu",
+  "_id": "react-native-newqiniu@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha1-gax8DP3lPjzFzLjW9F5gpJAaMwc=",
+  "_location": "/react-native-newqiniu",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-newqiniu",
+    "name": "react-native-newqiniu",
+    "escapedName": "react-native-newqiniu",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "http://58.132.200.58:9003/repository/npm-group/react-native-newqiniu/-/react-native-newqiniu-1.0.1.tgz",
+  "_shasum": "81ac7c0cfde53e3cc5ccb8d6f45e60a4901a3307",
+  "_spec": "react-native-newqiniu",
+  "_where": "F:\\rndemo\\AwesomeProject",
+  "author": {
+    "name": "fox"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "七牛的图片上传",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "react-native-newqiniu",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
