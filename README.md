@@ -5,11 +5,11 @@
 
 #-------------------------------------------
 
-#可以使用这个 npm i react-native-newqiniu 下载
+#建议直接引入里面的code文件夹的文件
 
 #安装后：
 
-import uploadFile from 'react-native-newqiniu'
+import uploadFile from 'XXXX路径'
 
  let formInput = {
        key: name,
@@ -20,3 +20,5 @@ import uploadFile from 'react-native-newqiniu'
     
 
 #其中的key是服务端发送的一个key：name
+备注：
+  不准备维护qiniu这个了
