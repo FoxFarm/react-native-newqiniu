@@ -9,13 +9,13 @@
 
 #安装后：
 
-#import rpc from 'react-native-newqiniu'
+import uploadFile from 'react-native-newqiniu'
 
  let formInput = {
        key: name,
        // formInput对象如何配置请参考七牛官方文档“直传文件”一节
    }
-   rpc.uploadFile(files, uptoken, formInput, (success) => { successBack(success) }, 
+   uploadFile(files, uptoken, formInput, (success) => { successBack(success) }, 
   (failure) => { failureBack(failure) }, (progress) => { progressBack(progress) });
     
 
