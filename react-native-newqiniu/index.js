@@ -1,6 +1,5 @@
 /**
- * Created by FOX on 2017/10/28.
+ * Created by FOX on 2019/10/16.
  */
-module.exports = {
-  rpc: require('./code/rpc'),
-}
+import uploadFile from './code/rpc';
+export default  uploadFile
