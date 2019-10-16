@@ -1,5 +1,5 @@
 /**
- * Created by FOX on 2017/4/17.
+ * Created by FOX on 2019/10/16.
  */
 /**
  * 直传文件
@@ -132,4 +132,4 @@ function post(uri, adminToken, content) {
   return fetch(uri, payload);
 }
 
-export default { uploadFile, post }
+export default  uploadFile
