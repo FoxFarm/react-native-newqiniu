@@ -15,7 +15,7 @@
 #        key: name,
 #        // formInput对象如何配置请参考七牛官方文档“直传文件”一节
 #    }
-#    Rpc.uploadFile(files, uptoken, formInput, (success) => { successBack(success) }, 
+#    rpc.uploadFile(files, uptoken, formInput, (success) => { successBack(success) }, 
 #   (failure) => { failureBack(failure) }, (progress) => { progressBack(progress) });
     
 
